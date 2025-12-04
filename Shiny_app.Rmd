@@ -26,7 +26,7 @@ Using PageUp and PageDown keys all the slides can be traversed.
 
 Click the Below Link for the Application.
 
-https://bkarmay.shinyapps.io/PricePredictorForDiamonds/
+https://ndeekshith.shinyapps.io/DiamondApp/
 
 Click the link below for compiled project files on gitub repo.
 
